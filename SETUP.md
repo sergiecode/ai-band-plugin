@@ -1,5 +1,8 @@
 # AI Band Plugin - Development Setup Guide
 
+**Created by [Sergie Code](https://github.com/sergiecode) - Software Engineer & Programming Educator**  
+*Building AI tools for musicians and teaching C++ development on [YouTube](https://www.youtube.com/@SergieCode)*
+
 This guide will help you set up the development environment to build and test the AI Band Plugin.
 
 ## Prerequisites

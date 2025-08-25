@@ -8,6 +8,11 @@
 /**
     Network Client for AI Band Plugin
     
+    Created by Sergie Code - Software Engineer & Programming Educator
+    Part of the AI Band Ecosystem for musicians
+    YouTube: https://www.youtube.com/@SergieCode
+    GitHub: https://github.com/sergiecode
+    
     This class provides communication capabilities with the ai-band-orchestrator.
     Currently contains placeholder functionality that will be implemented
     when the orchestrator server is available.

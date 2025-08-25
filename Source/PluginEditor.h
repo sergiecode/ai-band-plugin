@@ -7,6 +7,11 @@
 /**
     AI Band Plugin Editor
     
+    Created by Sergie Code - Software Engineer & Programming Educator
+    Part of the AI Band Ecosystem for musicians
+    YouTube: https://www.youtube.com/@SergieCode
+    GitHub: https://github.com/sergiecode
+    
     This class provides the user interface for the AI Band Plugin.
     It allows users to control playback, load MIDI files, and configure settings.
 */

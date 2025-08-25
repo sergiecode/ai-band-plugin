@@ -8,6 +8,11 @@
 /**
     AI Band Plugin Processor
     
+    Created by Sergie Code - Software Engineer & Programming Educator
+    Part of the AI Band Ecosystem for musicians
+    YouTube: https://www.youtube.com/@SergieCode
+    GitHub: https://github.com/sergiecode
+    
     This class handles the core audio processing and MIDI functionality.
     It integrates with the ai-band-backend to play AI-generated bass and drum tracks.
 */

@@ -2,6 +2,11 @@ cmake_minimum_required(VERSION 3.22)
 
 project(AIBandPlugin VERSION 1.0.0)
 
+# Created by Sergie Code - Software Engineer & Programming Educator
+# Part of the AI Band Ecosystem for musicians
+# GitHub: https://github.com/sergiecode
+# YouTube: https://www.youtube.com/@SergieCode
+
 # C++ Standard
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -16,8 +21,8 @@ find_package(JUCE CONFIG REQUIRED)
 # Plugin configuration
 juce_add_plugin(AIBandPlugin
     # Plugin identification
-    COMPANY_NAME "AIBand"
-    PLUGIN_MANUFACTURER_CODE "AiBd"
+    COMPANY_NAME "SergieCode"
+    PLUGIN_MANUFACTURER_CODE "SgCd"
     PLUGIN_CODE "AiBP"
     
     # Plugin formats

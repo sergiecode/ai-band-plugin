@@ -1,5 +1,8 @@
 # AI Band Plugin - Project Instructions
 
+**Created by [Sergie Code](https://github.com/sergiecode) - Software Engineer & Programming Educator**  
+*Building AI tools for musicians and teaching programming on [YouTube](https://www.youtube.com/@SergieCode)*
+
 This is a complete C++ JUCE audio plugin project that integrates with the ai-band-backend for AI-generated MIDI playback.
 
 ## Project Status: ✅ COMPLETE

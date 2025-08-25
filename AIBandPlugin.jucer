@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="AiBand" name="AI Band Plugin" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="1" jucerFormatVersion="1" companyName="AIBand"
-              companyCopyright="2025 AIBand" companyWebsite="https://github.com/sergiecode/ai-band-plugin"
-              companyEmail="contact@aiband.com" displaySplashScreen="0" reportAppUsage="0"
+              addUsingNamespaceToJuceHeader="1" jucerFormatVersion="1" companyName="SergieCode"
+              companyCopyright="2025 Sergie Code" companyWebsite="https://github.com/sergiecode/ai-band-plugin"
+              companyEmail="sergiecodeok@gmail.com" displaySplashScreen="0" reportAppUsage="0"
               splashScreenColour="Dark" projectLineFeed="&#10;" version="1.0.0"
-              bundleIdentifier="com.aiband.plugin" includeBinaryInAppConfig="1"
-              cppLanguageStandard="17" pluginName="AI Band Plugin" pluginDesc="AI-powered bass and drum accompaniment plugin"
-              pluginManufacturer="AIBand" pluginManufacturerWebsite="https://github.com/sergiecode"
-              pluginManufacturerEmail="contact@aiband.com" pluginManufacturerCode="AiBd"
+              bundleIdentifier="com.sergiecode.aiband" includeBinaryInAppConfig="1"
+              cppLanguageStandard="17" pluginName="AI Band Plugin" pluginDesc="AI-powered bass and drum accompaniment plugin by Sergie Code"
+              pluginManufacturer="SergieCode" pluginManufacturerWebsite="https://github.com/sergiecode"
+              pluginManufacturerEmail="sergiecodeok@gmail.com" pluginManufacturerCode="SgCd"
               pluginCode="AiBP" pluginChannelConfigs="" pluginIsSynth="0" pluginWantsMidiIn="1"
               pluginProducesMidiOut="1" pluginIsMidiEffectPlugin="1" pluginEditorRequiresKeys="1"
-              pluginAUExportPrefix="AIBandAU" pluginRTASCategory="" aaxIdentifier="com.aiband.plugin"
+              pluginAUExportPrefix="SergieCodeAU" pluginRTASCategory="" aaxIdentifier="com.sergiecode.aiband"
               pluginAAXCategory="2" jucerVersion="7.0.0" defines="JUCE_VST3_CAN_REPLACE_VST2=0&#10;JUCE_USE_DARK_SPLASHSCREEN=1">
   <MAINGROUP id="uKZoJq" name="AI Band Plugin">
     <GROUP id="{3B8C8FBE-F4B4-0B1A-1B73-4A8F9B5C2E3D}" name="Source">

@@ -2,6 +2,9 @@
 
 A C++ JUCE audio plugin that integrates with the [ai-band-backend](https://github.com/sergiecode/ai-band-backend) to provide AI-generated bass and drum accompaniment in your DAW.
 
+**Created by [Sergie Code](https://github.com/sergiecode) - Software Engineer & Programming Educator**  
+*Building AI tools for musicians and teaching programming on YouTube*
+
 ## 🎯 Project Purpose
 
 The AI Band Plugin serves as a bridge between the AI Band Backend's intelligent MIDI generation capabilities and your Digital Audio Workstation (DAW). It loads and plays AI-generated bass and drum tracks, providing real-time musical accompaniment based on chord progressions.
@@ -52,7 +55,7 @@ The plugin includes placeholder code for future integration with **ai-band-orche
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-band-plugin.git
+git clone https://github.com/sergiecode/ai-band-plugin.git
 cd ai-band-plugin
 
 # Create build directory
@@ -418,15 +421,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **ai-band-orchestrator** (coming soon): Server coordination layer
 - **AI Band Ecosystem**: Complete solution for AI-powered musical accompaniment
 
-## 📞 Support
+## 📞 Support & Connect
 
-- **Issues**: Report bugs via GitHub Issues
-- **Discussions**: Use GitHub Discussions for questions
-- **Documentation**: See integration guides in ai-band-backend
-- **Community**: Join the AI Band community for support
+### 🔗 Connect with Sergie Code
+- 📽️ **YouTube**: [Programming Tutorials](https://www.youtube.com/@SergieCode)
+- 📸 **Instagram**: [@sergiecode](https://www.instagram.com/sergiecode)
+- 🧑🏼‍💻 **LinkedIn**: [Professional Profile](https://www.linkedin.com/in/sergiecode/)
+- 😺 **GitHub**: [Open Source Projects](https://github.com/sergiecode)
+- 👤 **Facebook**: [Community](https://www.facebook.com/sergiecodeok)
+- 🎞️ **TikTok**: [@sergiecode](https://www.tiktok.com/@sergiecode)
+- 🕊️ **Twitter**: [@sergiecode](https://twitter.com/sergiecode)
+- 🧵 **Threads**: [@sergiecode](https://www.threads.net/@sergiecode)
+
+### 🆘 Project Support
+- **Issues**: Report bugs via [GitHub Issues](https://github.com/sergiecode/ai-band-plugin/issues)
+- **Discussions**: Use [GitHub Discussions](https://github.com/sergiecode/ai-band-plugin/discussions) for questions
+- **Documentation**: See integration guides in [ai-band-backend](https://github.com/sergiecode/ai-band-backend)
+- **YouTube**: Check out programming tutorials and AI music development videos
 
 ---
 
-**Created by Sergie Code - AI Tools for Musicians**  
-**Integrates with ai-band-backend for intelligent musical accompaniment**  
-**Ready for ai-band-orchestrator integration**
+**🎵 Part of the AI Band Ecosystem by Sergie Code**  
+*Empowering musicians with AI tools and teaching the world to code*

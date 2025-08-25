@@ -1,5 +1,8 @@
 # AI Band Plugin - Quick Setup Guide
 
+**Created by [Sergie Code](https://github.com/sergiecode) - Software Engineer & Programming Educator**  
+*Follow along with AI music development tutorials on [YouTube](https://www.youtube.com/@SergieCode)*
+
 ## Fix VS Code Include Errors
 
 ### Step 1: Install Development Tools
