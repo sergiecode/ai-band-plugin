@@ -251,6 +251,66 @@ networkClient.setConnectionCallback([](bool connected, const String& status) {
 
 ## 🧪 Testing
 
+### Automated Test Suite
+
+The plugin includes a comprehensive test suite that validates all functionality:
+
+#### Running Tests
+
+**Windows (Quick Start):**
+```bash
+# Run all tests automatically
+run_tests.bat
+```
+
+**Manual CMake Build:**
+```bash
+# Build with tests enabled
+mkdir build-tests
+cd build-tests
+cmake .. -DBUILD_TESTS=ON -DCMAKE_BUILD_TYPE=Debug
+cmake --build . --target AIBandPluginTests
+
+# Run tests
+./AIBandPluginTests                    # All tests
+./AIBandPluginTests --suite MidiManager # Specific test suite
+./AIBandPluginTests --report           # Generate detailed report
+```
+
+#### Test Suites
+
+1. **MidiManager Tests**:
+   - MIDI file loading and saving
+   - Format validation
+   - Tempo and time signature detection
+   - Error handling
+
+2. **PluginProcessor Tests**:
+   - Audio processing pipeline
+   - MIDI event handling
+   - Playback control
+   - State management
+
+3. **Integration Tests**:
+   - Component interaction
+   - End-to-end workflow
+   - File system integration
+
+#### Integration Testing with ai-band-backend
+
+Test the complete workflow with the AI backend:
+
+```bash
+# Prerequisites: ai-band-backend in sibling directory
+python test_integration.py
+```
+
+This test:
+- Generates MIDI files using ai-band-backend
+- Loads them in the plugin
+- Validates format compatibility
+- Tests complete workflow
+
 ### Manual Testing
 
 1. **Plugin Loading**:
