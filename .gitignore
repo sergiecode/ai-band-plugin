@@ -1,0 +1,81 @@
+# Build directories
+build/
+Builds/*/
+cmake-build-*/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.vcxproj.user
+*.xcuserstate
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Compiled binaries
+*.dll
+*.exe
+*.so
+*.dylib
+*.a
+*.lib
+*.vst3
+*.component
+*.aaxplugin
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# JUCE generated files
+JuceLibraryCode/
+Source/JuceHeader.h
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# Output directories
+output/
+generated/
+temp/
+
+# Log files
+*.log
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# Audio files (for testing)
+*.wav
+*.aiff
+*.mp3
+*.mid
+*.midi
+
+# Documentation build
+docs/_build/
+site/
