@@ -411,10 +411,6 @@ void enableRealtimeMode(bool enable);
 - Document public APIs with Doxygen comments
 - Maintain real-time safety in audio thread
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🎵 Related Projects
 
 - **[ai-band-backend](https://github.com/sergiecode/ai-band-backend)**: Core AI generation engine
@@ -443,3 +439,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🎵 Part of the AI Band Ecosystem by Sergie Code**  
 *Empowering musicians with AI tools and teaching the world to code*
+
